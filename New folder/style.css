@@ -1,0 +1,31 @@
+#heading {
+    text-align: center;
+    font-size: 50px;
+    color: #0F2C67;
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+#para {
+    font-size: 18px;
+    color: darkblue;
+}
+
+#word {
+    color: yellow
+}
+
+a {
+    font-size: 30px;
+    color: yellow;
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+    padding: 7px;
+    border-radius: 30px;
+}
